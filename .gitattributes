@@ -1,0 +1,5 @@
+test01/** filter=lfs diff=lfs merge=lfs -text
+test02/** filter=lfs diff=lfs merge=lfs -text
+test03/** filter=lfs diff=lfs merge=lfs -text
+test04/** filter=lfs diff=lfs merge=lfs -text
+实验报告/** filter=lfs diff=lfs merge=lfs -text
